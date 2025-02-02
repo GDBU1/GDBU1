@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://pin.it/Nh7OZnGNs)
+[![MasterHead](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)](https://pin.it/Nh7OZnGNs)
 <h1 align="center">Hi 👋, I'm Mohamed Alsuwaidi</h1>
 <h3 align="center">My Passion in Programming and Tech</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnA0Mm4ydmJ2cTh0ZTMxMWk4Z2NyNm5oamVjeGJsNWg2bm9ubHY1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif">
